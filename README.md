@@ -1,1 +1,1 @@
-# BireenaAtithi
+Hotel Management System
